@@ -1,0 +1,1 @@
+﻿Termómetro con Tkinter. se pide una entrada y se puede dar la temperatura en F o en C
